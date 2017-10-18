@@ -82,7 +82,7 @@
                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lbw-va-HeC" customClass="POView">
                                             <rect key="frame" x="15" y="212" width="345" height="440"/>
                                             <subviews>
-                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="{&quot;type&quot;:5274,&quot;event&quot;:1,&quot;message&quot;:&quot;Low Power Event&quot;}" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="PSq-bk-c1f" customClass="POTextView">
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="PSq-bk-c1f" customClass="POTextView">
                                                     <rect key="frame" x="5" y="5" width="335" height="430"/>
                                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
